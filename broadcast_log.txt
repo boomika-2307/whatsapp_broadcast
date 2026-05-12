@@ -1,0 +1,66 @@
+2026-05-11 23:30:57,300 [INFO] Starting broadcast to 2 contacts
+2026-05-11 23:30:57,301 [INFO] [1/2] Sending to Kavitha
+2026-05-11 23:32:11,899 [INFO] Waiting 10s...
+2026-05-11 23:32:21,900 [INFO] [2/2] Sending to Vicky
+2026-05-11 23:33:11,472 [INFO] Broadcast completed.
+2026-05-11 23:34:43,972 [INFO] Starting broadcast to 2 contacts
+2026-05-11 23:34:43,973 [INFO] [1/2] Sending to Kavitha
+2026-05-11 23:35:32,210 [INFO] Waiting 10s...
+2026-05-11 23:35:42,211 [INFO] [2/2] Sending to Vicky
+2026-05-11 23:36:30,897 [INFO] Broadcast completed.
+2026-05-11 23:37:31,057 [INFO] Starting broadcast to 2 contacts
+2026-05-11 23:37:31,057 [INFO] [1/2] Sending to Kavitha
+2026-05-11 23:38:19,093 [INFO] Waiting 10s...
+2026-05-11 23:38:29,094 [INFO] [2/2] Sending to Vicky
+2026-05-11 23:39:16,735 [INFO] Broadcast completed.
+2026-05-11 23:40:02,596 [INFO] Starting broadcast to 2 contacts
+2026-05-11 23:40:02,597 [INFO] [1/2] Sending to Kavitha
+2026-05-11 23:40:02,597 [INFO] Opening chat for 917397266639
+2026-05-11 23:40:53,030 [ERROR] Failed for Kavitha: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7f613d6d5+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7f613d740+14f60]
+	chromedriver!(No symbol) [0x7ff7f5e8d59d]
+	chromedriver!(No symbol) [0x7ff7f5ee6f42]
+	chromedriver!(No symbol) [0x7ff7f5ee724c]
+	chromedriver!(No symbol) [0x7ff7f5f37967]
+	chromedriver!(No symbol) [0x7ff7f5f344ff]
+	chromedriver!(No symbol) [0x7ff7f5ed9608]
+	chromedriver!(No symbol) [0x7ff7f5eda4f3]
+	chromedriver!GetHandleVerifier [0x7ff7f643b779+312f99]
+	chromedriver!GetHandleVerifier [0x7ff7f6435c8b+30d4ab]
+	chromedriver!GetHandleVerifier [0x7ff7f6459012+330832]
+	chromedriver!GetHandleVerifier [0x7ff7f615a485+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7f6162e7c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7f6146a74+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7f6146c04+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7f612b327+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff84c96e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff84deec3fc+2c]
+
+2026-05-11 23:40:53,031 [INFO] Waiting 10 seconds...
+2026-05-11 23:41:03,032 [INFO] [2/2] Sending to Vicky
+2026-05-11 23:41:03,033 [INFO] Opening chat for 916383781654
+2026-05-11 23:41:52,829 [ERROR] Failed for Vicky: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7f613d6d5+14ef5]
+	chromedriver!GetHandleVerifier [0x7ff7f613d740+14f60]
+	chromedriver!(No symbol) [0x7ff7f5e8d59d]
+	chromedriver!(No symbol) [0x7ff7f5ee6f42]
+	chromedriver!(No symbol) [0x7ff7f5ee724c]
+	chromedriver!(No symbol) [0x7ff7f5f37967]
+	chromedriver!(No symbol) [0x7ff7f5f344ff]
+	chromedriver!(No symbol) [0x7ff7f5ed9608]
+	chromedriver!(No symbol) [0x7ff7f5eda4f3]
+	chromedriver!GetHandleVerifier [0x7ff7f643b779+312f99]
+	chromedriver!GetHandleVerifier [0x7ff7f6435c8b+30d4ab]
+	chromedriver!GetHandleVerifier [0x7ff7f6459012+330832]
+	chromedriver!GetHandleVerifier [0x7ff7f615a485+31ca5]
+	chromedriver!GetHandleVerifier [0x7ff7f6162e7c+3a69c]
+	chromedriver!GetHandleVerifier [0x7ff7f6146a74+1e294]
+	chromedriver!GetHandleVerifier [0x7ff7f6146c04+1e424]
+	chromedriver!GetHandleVerifier [0x7ff7f612b327+2b47]
+	KERNEL32!BaseThreadInitThunk [0x7ff84c96e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff84deec3fc+2c]
+
+2026-05-11 23:41:52,830 [INFO] Broadcast completed.
