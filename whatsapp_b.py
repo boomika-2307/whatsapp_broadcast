@@ -42,7 +42,7 @@ logging.basicConfig(
 # ─────────────────────────────────────────────────────────────
 
 CONTACTS = [
-    {"name": "Kavitha", "phone": "917397266639"},
+    {"name": "Kavitha", "phone": "917358340203"},
     {"name": "Vicky", "phone": "916383781654"},
 ]
 
